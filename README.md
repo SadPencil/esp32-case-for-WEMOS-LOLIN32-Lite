@@ -1,4 +1,4 @@
-# esp32-case-for-micropython-rev1.0.0
+# esp32-case-for-micropython-rev1
 
 ![](preview.png)
 
